@@ -1,0 +1,9 @@
+<!-- Copyright (C) 2016 -->
+
+<manifest>
+
+<project path="vendor/huawei/yax_lte" name="android_vendor_huawei_yax_lte" remote="DEV-MSM8909" />
+<project path="device/huawei/yax_lte" name="android_device_huawei_yax_lte" remote="DEV-MSM8909" />
+<project path="kernel/huawei/msm8909" name="android_kernel_huawei_msm8909" remote="DEV-MSM8909" />
+
+</manifest>
